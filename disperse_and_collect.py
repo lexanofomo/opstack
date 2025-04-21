@@ -92,7 +92,7 @@ chain_info = {
         'rpc': 'https://rpc-qnd.inkonchain.com',
         'chain_id': 57073
     },
-    'soneinium': {
+    'soneium': {
         'rpc': 'https://rpc.soneium.org',
         'chain_id': 1868
     },
