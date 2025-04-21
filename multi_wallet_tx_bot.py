@@ -7,7 +7,7 @@ ALL_NETWORKS = {
     "Optimism": {"rpc": "https://optimism-mainnet.public.blastapi.io", "chain_id": 10},
     "Base": {"rpc": "https://gateway.tenderly.co/public/base", "chain_id": 8453},
     "Unichain": {"rpc": "https://unichain-rpc.publicnode.com", "chain_id": 130},
-    "Soneinium": {"rpc": "https://rpc.soneium.org", "chain_id": 1868},
+    "Soneium": {"rpc": "https://rpc.soneium.org", "chain_id": 1868},
     "Ink": {"rpc": "https://rpc-qnd.inkonchain.com", "chain_id": 57073},
     "Mode": {"rpc": "https://mainnet.mode.network", "chain_id": 34443},
     "Lisk": {"rpc": "https://rpc.api.lisk.com", "chain_id": 1135}
