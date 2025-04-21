@@ -20,7 +20,7 @@
   - Optimism
   - Base
   - Unichain
-  - Soneinium
+  - Soneium
   - Ink
   - Mode
   - Lisk
